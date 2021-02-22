@@ -1,0 +1,12 @@
+version: 0.1.0
+files:
+  - url: test-extra-resources-0.1.0-mac.zip
+    sha512: Gy38RA1reh9Nhkitgvlxa0zLL1IGfcAtgKRrvLTZrRF0YVx2cHEyCrRLmQX5jqSxT4OJvKJeuE7FbTSi/58cRQ==
+    size: 77616014
+    blockMapSize: 81836
+  - url: test-extra-resources-0.1.0.dmg
+    sha512: U0BdevuqfUhCB7TEfcVLEWw68bXBauOH9xEfvJLG9wJZ0piDk4J+VAYBLU0nyovG9u+cfnO+tEHVjyCnUJJMQw==
+    size: 79923055
+path: test-extra-resources-0.1.0-mac.zip
+sha512: Gy38RA1reh9Nhkitgvlxa0zLL1IGfcAtgKRrvLTZrRF0YVx2cHEyCrRLmQX5jqSxT4OJvKJeuE7FbTSi/58cRQ==
+releaseDate: '2021-02-22T04:15:51.737Z'

@@ -1,0 +1,4 @@
+owner: MBearo
+repo: test-extra-resources
+provider: github
+updaterCacheDirName: test-extra-resources-updater
